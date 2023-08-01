@@ -1,0 +1,126 @@
+		*{margin: 0; padding: 0; list-style: none;}
+		body{background: #e12e27;font-family: "微软雅黑";font-size: 14px;background-image: url("imgss/sky_3_1920x1080_large.jpeg");}
+	.message-box {
+  width: 400px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.message-box textarea {
+  width: 100%;
+  height: 616px;
+  width: 1417px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  resize: none;
+position: absolute;
+	left: 200px;
+	top: 200px;
+	background-image: url("imgss/city_3_1920x400_large.png");
+	 background-repeat: no-repeat;
+	background-position: left bottom;
+	
+	font-weight: bold;
+	font-size: 25px;
+	
+	
+	
+}
+
+
+
+.message-content {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px dashed #ddd;
+  border-radius: 5px; 
+}
+		.text h1{
+			position: absolute;
+			left: 300px;
+			top: 110px;
+			text-align: center;
+		}
+		.socializing{
+			width: 2410px;
+			height: 91px;
+			background-color: #f6f5f3;
+			position: absolute;
+			top: 900px;
+		}
+		.socializing samp{
+			font-size: 20px;
+			font-weight: bold;
+			position: relative;
+			left: 1200px;
+			top: 12px;
+		}
+		.socializing img{
+			position: relative; 
+			left: 1490px;
+			height: 52px;
+			top: 30px;
+		}
+		.message-box2{
+			position: absolute;
+			left: 560px;
+			top: 230px;
+			font-weight: bold;
+			
+		}
+		.message-box2 textarea{
+			width: 600px;
+			height: 240px;
+			background-color: #fffbf6;
+			position: absolute;
+			left: 65px;
+			border-radius: 10px;
+		}
+			.message-box2 button {
+    position: absolute;
+   left: 600px;
+				top: 310px;
+			
+  }  
+		.message-box2 button:first-of-type {
+  z-index: 1;      
+}
+		.message-box2 button:last-of-type {
+  z-index: 0;  
+}
+		.message-box2 button {
+  position: absolute;
+  width: 100px;
+  height: 30px;
+}  
+
+.message-box2 button:first-of-type {
+   left: 450px;  
+   top: 320px;
+	 font-weight: bold; 
+	background-color: #fffbf6;
+}
+
+.message-box2 button:last-of-type {  
+   left: 560px;  
+   top: 320px; 
+	 font-weight: bold; 
+	background-color: #fffbf6;
+}
+		.message-box2 textarea{
+			text-align: center;
+		}
+		.shouy {
+			position: absolute;
+			left: 870px;
+		top: 11px;
+			
+			
+		}
+		.shouy a{
+			color: #000000;
+			 font-weight: bold;
+			 font-size: 30px; 
+		}
